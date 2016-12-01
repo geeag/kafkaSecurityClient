@@ -1,0 +1,2 @@
+# kafkaSecurityClient
+kafka security client
